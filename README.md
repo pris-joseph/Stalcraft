@@ -193,4 +193,4 @@ This repository serves as the official landing page for STALCRAFT. The software 
 **Get the most recent version of STALCRAFT today!**
 
 ---
-**Last updated:** 2026-11-12 10:51:25 UTC
+**Last updated:** 2026-11-12 18:46:49 UTC
